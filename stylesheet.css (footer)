@@ -13,6 +13,7 @@ footer{
     font-size:30px;
     float:left;
   }
+  
   .footer-list {
     
     font-size:12px;
@@ -21,6 +22,11 @@ footer{
     float: right;
     margin-right: 30px;
   }
+  
+  .logo {
+  width: 124px;
+  margin-top: 20px;
+ }
   
   footer p{
     color:#b3aeb5;
