@@ -8,3 +8,14 @@
     margin-bottom : 50px;
   }
 }
+
+@media (max-width: 670px) {
+    footer {
+        text-align: center;
+        width: 90%;
+        font-size: 20px;
+        float: right;
+        margin-left: 25px;
+      }
+}
+
