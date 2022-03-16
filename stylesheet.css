@@ -6,3 +6,42 @@
   width: 100%;
   padding: 100px;
 }
+
+footer{
+    background-color:#DC143C;
+    color:#FF7F50;
+    height:70px;
+    padding:30px 30px;
+    padding-top:28px;
+    padding-bottom: 74px;
+    width: 100%;
+    position: relative;
+}
+
+.footer-logo{
+    font-family:Fantasy;
+    font-size:30px;
+    float:left;
+}
+  
+.footer-list {
+    font-size:12px;
+    text-decoration:column;
+    color:black;
+    float: right;
+    margin-right: 30px;
+}
+  
+footer p{
+    color:#b3aeb5;
+    font-size: 16px;
+    display:flex;
+}
+  
+li {
+    list-style: none;
+}
+
+.footer-list :hover{
+    color: aqua;
+}
