@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 header {
   height: 65px;
   width: 100%;
@@ -6,6 +10,16 @@ header {
   top: 0;
   z-index: 10;
 }
+
+body {
+  margin: 0;
+  font-family: "Lucida Grande";
+}
+
+.clear {
+  clear: left;
+}
+
 
 .container {
   max-width: 1170px;
@@ -70,8 +84,16 @@ header {
   display: none;
 }
 
+a {
+  text-decoration: none;
+}
+
+.fa {
+  margin-right: 5px;
+}
+
 footer{
-    background-color:#48dbfb;
+    background-color:rgba(34, 49, 52, 0.9);
     color:#07291B;
     height:70px;
     padding-top:28px;
@@ -106,5 +128,5 @@ li {
 }
 
 .footer-list :hover{
-    color: #3B3551;
+    color: rgba(255, 255, 255, 0.3);
 }
