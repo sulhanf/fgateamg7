@@ -1,0 +1,24 @@
+ <html>
+ <body>
+ <footer>
+        <div class="footer-logo">Website Project Team G7</div>
+        <div class="container">
+          
+          <p>The Spirit Can Definitely Code "Team 7"</p>
+        </div>
+        <div class="footer-list">
+          <ul> <div class="tentang">
+            <li>Tentang</li></div>
+            <li>Bantuan</li>
+            <li>Hubungi Kami</li>
+            
+          </ul>
+        </div>
+        
+        
+        
+      </footer>
+
+</body>
+
+</html>
